@@ -4,12 +4,35 @@ body {
 /* select by TAG type */
 
 p {
-    color: white
+    color: rgb(255, 255, 255)
 }
 /* select by ID name (unique) */
 #LOreal {
-    background: salmon
+    background: rgb(255, 206, 114);
+    border-width: 13px ; 
+    border-style: outset;
+    border-color: rgb(255, 128, 0);
+    border-radius: 100px;
+    padding: 25px;
+    margin: 25px;
+
 }
 .uniform {
     color: peru
+}
+
+h1{
+
+}
+
+
+
+/* Everything is a BOX
+* {
+    border: 2px solid rgb(255, 255, 255);
+}
+*/
+
+hr {
+    border: 10px dashed rgb(255, 115, 1);
 }
