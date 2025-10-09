@@ -22,7 +22,11 @@ p {
 }
 
 h1{
-
+    color: )black;
+    font-weight: 100;
+    font-style: italic;
+    font-family: Impact;
+    text-align: center;
 }
 
 
